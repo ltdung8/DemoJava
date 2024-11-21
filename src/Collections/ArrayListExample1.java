@@ -3,7 +3,7 @@ package Collections;
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class DuyetCacPhanTuCollection {
+public class ArrayListExample1 {
     public static void main(String args[]) {
         // Creating arraylist
         ArrayList<String> list = new ArrayList<String>();
