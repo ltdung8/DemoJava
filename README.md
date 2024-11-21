@@ -1,3 +1,3 @@
 # DemoJava
-Java for automation test learning
-Create by ltdung8
+Java for automation test learning.
+Create by ltdung8!
